@@ -162,11 +162,23 @@ a:active {
     width: 100%;
     height: 400px;
     margin-top: 200px;
-    color: white;
     text-align: center;
 }
 
 #principal:hover {
     font-weight: bold;
     color: #DF6528;
+}
+
+.scrollToBottom {
+    height: 300px;
+    color: white;
+    border: 0px;
+    background-color: transparent;
+}
+
+.scrollToBottom:hover {
+    font-weight: bold;
+    color: #DF6528;
+    background-color: transparent;
 }
